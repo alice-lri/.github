@@ -24,15 +24,11 @@ C++ and Python library for lossless range image generation and reconstruction fr
 
 **Documentation:** [alice-lri.github.io/alice-lri](https://alice-lri.github.io/alice-lri/)
 
----
-
 ### [alice-lri-experiments](https://github.com/alice-lri/alice-lri-experiments)
 Complete reproducible workflow for ALICE-LRI experiments: code, scripts, and configuration to reproduce all experiments, results, and figures from data preparation to paper outputs across KITTI and DurLAR datasets.
 
 
 **See:** [REPRODUCIBILITY.md](https://github.com/alice-lri/alice-lri-experiments/blob/main/REPRODUCIBILITY.md) for complete step-by-step instructions.
-
----
 
 ### [rtst-modified](https://github.com/alice-lri/rtst-modified)
 **Fork of the Real-Time Spatio-Temporal LiDAR Point Cloud Compression algorithm. Contains both the original implementation and a modified version for evaluation and comparison with ALICE-LRI.**
@@ -55,8 +51,6 @@ The ALICE-LRI algorithm and experiments are described in our paper:
 TODO: Add BibTeX citation
 ```
 
----
-
 ## 🤝 Contributing
 
 We welcome contributions! Whether it's bug reports, feature requests, documentation improvements, or code contributions, please feel free to get involved:
@@ -65,16 +59,10 @@ We welcome contributions! Whether it's bug reports, feature requests, documentat
 - **Suggest features:** Open an issue in the relevant repository.
 - **Contribute code:** See [CONTRIBUTING.md](https://github.com/alice-lri/alice-lri/blob/main/CONTRIBUTING.md)
 
----
-
 ## 📄 License
 
 The ALICE-LRI core library is released under the **MIT License**. See individual repositories for specific license information.
 
----
-
 ## 📧 Contact
 
 For questions, collaboration opportunities, or other inquiries, please reach out through email. **See corresponding author of the paper (Samuel Soutullo).**
-
----
