@@ -9,7 +9,7 @@ This GitHub organization groups together the repositories containing the library
 ### [alice-lri](https://github.com/alice-lri/alice-lri)
 C++ and Python library for lossless range image generation and reconstruction from spinning 3D LiDAR point clouds. Automatically estimates all intrinsic sensor parameters from data without calibration files.
 
-[![Release](https://github.com/alice-lri/alice-lri/actions/workflows/release.yml/badge.svg)](https://github.com/alice-lri/alice-lri/actions/workflows/release.yml)
+[![Build and Test](https://github.com/alice-lri/alice-lri/actions/workflows/ci.yml/badge.svg?branch=master)](https://github.com/alice-lri/alice-lri/actions/workflows/ci.yml)
 [![Documentation](https://img.shields.io/badge/docs-online-blue.svg)](https://alice-lri.github.io/alice-lri/)
 [![PyPI](https://img.shields.io/pypi/v/alice-lri.svg)](https://pypi.org/project/alice-lri/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
