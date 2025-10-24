@@ -48,7 +48,7 @@ The ALICE-LRI algorithm and experiments are described in our paper:
 
 **How to cite:**
 ```bibtex
-@misc{soutullo2025alicelrigeneralmethodlossless,
+@misc{soutullo2025alicelri,
       title={ALICE-LRI: A General Method for Lossless Range Image Generation for Spinning LiDAR Sensors without Calibration Metadata}, 
       author={Samuel Soutullo and Miguel Yermo and David L. Vilariño and Óscar G. Lorenzo and José C. Cabaleiro and Francisco F. Rivera},
       year={2025},
