@@ -1,6 +1,6 @@
 # ALICE-LRI
 
-**ALICE-LRI** is a method for lossless range image generation and reconstruction from spinning 3D LiDAR point clouds. The algorithm automatically estimates all intrinsic sensor parameters from data without requiring calibration files or manufacturer metadata.
+**ALICE-LRI** (Automatic LiDAR Intrinsic Calibration Estimation for Lossless Range Images) is a method for lossless range image generation and reconstruction from spinning 3D LiDAR point clouds. The algorithm automatically estimates all intrinsic sensor parameters from data without requiring calibration files or manufacturer metadata.
 
 This GitHub organization groups together the repositories containing the library implementation, reproducible experiments, and evaluation code for the ALICE-LRI paper.
 
@@ -44,7 +44,7 @@ The ALICE-LRI algorithm and experiments are described in our paper:
 
 > **Title:** _ALICE-LRI: A General Method for Lossless Range Image Generation for Spinning LiDAR Sensors without Calibration Metadata_  
 > **Authors:** _Samuel Soutullo, Miguel Yermo, David L. Vilariño, Óscar G. Lorenzo, José C. Cabaleiro, Francisco F. Rivera_  
-> **Link:** [https://arxiv.org/pdf/2510.20708](https://arxiv.org/pdf/2510.20708)
+> **Link:** [https://arxiv.org/abs/2510.20708](https://arxiv.org/abs/2510.20708)
 
 **How to cite:**
 ```bibtex
