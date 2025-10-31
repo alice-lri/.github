@@ -28,7 +28,7 @@ C++ and Python library for lossless range image generation and reconstruction fr
 Complete reproducible workflow for ALICE-LRI experiments: code, scripts, and configuration to reproduce all experiments, results, and figures from data preparation to paper outputs across KITTI and DurLAR datasets.
 
 
-**See:** [REPRODUCIBILITY.md](https://github.com/alice-lri/alice-lri-experiments/blob/main/REPRODUCIBILITY.md) for complete step-by-step instructions.
+**See:** [REPRODUCIBILITY.md](https://github.com/alice-lri/alice-lri-experiments/blob/master/REPRODUCIBILITY.md) for complete step-by-step instructions.
 
 ### [rtst-modified](https://github.com/alice-lri/rtst-modified)
 **Fork of the Real-Time Spatio-Temporal LiDAR Point Cloud Compression algorithm. Contains both the original implementation and a modified version for evaluation and comparison with ALICE-LRI.**
@@ -65,7 +65,7 @@ We welcome contributions! Whether it's bug reports, feature requests, documentat
 
 - **Report bugs:** Open an issue in the relevant repository.
 - **Suggest features:** Open an issue in the relevant repository.
-- **Contribute code:** See [CONTRIBUTING.md](https://github.com/alice-lri/alice-lri/blob/main/CONTRIBUTING.md)
+- **Contribute code:** See [CONTRIBUTING.md](https://github.com/alice-lri/alice-lri/blob/master/CONTRIBUTING.md)
 
 ## 📄 License
 
